@@ -1,0 +1,25 @@
+{
+  "slug": "MyPlugin",
+  "name": "My Plugin",
+  "version": "2.0.0",
+  "license": "CC0-1.0",
+  "brand": "Ry",
+  "author": "Ry",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "MyModule",
+      "name": "My Module",
+      "description": "Simple sine oscillator",
+      "tags": [
+        "VCO"
+      ]
+    }
+  ]
+}
